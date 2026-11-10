@@ -1,0 +1,9 @@
+Case ID,Case Name,Nodes,Max w (Pred),Max w (Ref),MAE,Rel L2 Error (%),Time (s),CSV File,Plot File
+1,Case 1: Rectangular Plate - Uniform Load,225,0.004062,0.004062,3.720094e-05,2.87%,7.6,results_case1.csv,plot_case1.png
+2,Case 2: Rectangular Plate - Sinusoidal Load,225,0.002566,0.002566,2.364374e-05,2.97%,7.8,results_case2.csv,plot_case2.png
+3,Case 3: Circular Plate - Clamped (Sec 4.1),197,0.015625,0.015625,7.868809e-04,12.74%,6.7,results_case3.csv,plot_case3.png
+4,Case 4: Circular Plate - Simply Supported,197,0.015925,0.015925,1.426739e-03,18.60%,6.8,results_case4.csv,plot_case4.png
+5,Case 5: L-Shaped Plate - Uniform Load (Sec 4.4),176,0.003500,0.003500,5.966965e-04,56.40%,6.5,results_case5.csv,plot_case5.png
+6,Case 6: L-Shaped Plate - Sinusoidal Load,176,0.002200,0.002200,3.505736e-04,55.02%,8.7,results_case6.csv,plot_case6.png
+7,Case 7: Triangular Plate - Uniform Load,113,0.001500,0.001500,6.529538e-05,12.34%,6.9,results_case7.csv,plot_case7.png
+8,Case 8: Triangular Plate - Uniform Moment (Sec 4.2),113,0.000542,0.000542,1.990099e-04,151.35%,8.7,results_case8.csv,plot_case8.png
